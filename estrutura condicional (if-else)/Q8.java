@@ -14,5 +14,7 @@ public class Q8 {
         else {
             System.out.println("ÍMPAR");
         }
+
+        sc.close();
     }
 }
