@@ -19,6 +19,7 @@ public class Q5 {
         total2 = pn2 * pv2;
         pvt = total1 + total2;
 
+        System.out.println("Os números apresentados são: " + pc1 + " e " + pc2);
         System.out.println("Valor a pagar: R$ " + pvt);
 
         sc.close();
