@@ -17,7 +17,7 @@ public class Q9 {
         else {
             System.out.println("NÃO SÃO MULTIPLOS");
         }
-        
+
         sc.close();
     }
 }
